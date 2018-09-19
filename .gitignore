@@ -1,0 +1,10 @@
+**/.idea/**
+!**/.idea/vcs.xml
+
+**/__pycache__/**
+
+**/.DS_Store
+**/Thumbs.db
+
+**/.env/
+**/.venv/
