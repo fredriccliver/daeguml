@@ -8,3 +8,5 @@
 
 **/.env/
 **/.venv/
+JWS/.ipynb_checkpoints/titanic_keras-checkpoint.ipynb
+.gitignore
