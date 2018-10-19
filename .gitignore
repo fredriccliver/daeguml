@@ -16,3 +16,5 @@ JWS/.ipynb_checkpoints/titanic_keras-checkpoint.ipynb
 **/*.ignore
 **/*.ignore.*
 **/outputs/**
+
+.vscode/settings.json
